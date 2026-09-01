@@ -9,4 +9,6 @@ Releasing this on GitHub so you don't have to trust that the file isn't malware.
 
 Dependencies:
 
-Fabric API,JourneyMap
+Fabric API, JourneyMap
+
+Will possibly come to other versions in the future. Request a version you would like.
